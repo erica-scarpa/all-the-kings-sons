@@ -1,4 +1,4 @@
-# All the Kings’ Sons: The Role and Tasks of the dumu-nita en at Ebla (Syria, 24th cent. BCE) 
+# All the Kings’ Sons: The Role and Tasks of the dumu-nita en at Ebla (Syria, 24<sup>th</sup> cent. BCE) 
 
 This repository includes:
 
